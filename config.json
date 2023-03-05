@@ -1,0 +1,40 @@
+{
+  "log": {
+    "delimiter": "|",
+    "date_format": "%Y-%m-%d %H:%M:%S"
+  },
+  "database": {
+     "table": {
+        "name": "log",
+        "columns": [
+          {
+            "name": "date",
+            "order": 1,
+            "type": "DATETIME",
+            "color": "bright_magenta"
+          },
+          {
+            "name": "level",
+            "order": 2,
+            "type": "TEXT",
+            "color": "white"
+          },
+          {
+            "name": "message",
+            "order": 3,
+            "type": "TEXT",
+            "color": "grey100"
+          }
+        ]
+     }
+  },
+  "special": {
+    "colors": {
+      "expressions": {
+        "INFO": "blue",
+        "WARNING": "yellow",
+        "ERROR": "red"
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+2022-03-22 08:51:06 | INFO |   :.....mailslot_create: creating mailslot for RSVP
+2022-03-22 08:51:07 | INFO |    :....mailbox_register: mailbox allocated for rsvp
+2022-03-22 08:51:08 | INFO |    :.....mailslot_create: creating mailslot for RSVP via UDP
+2022-03-22 08:51:09 | WARNING | :.....mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available.
+2022-03-22 08:51:10 | INFO |    :....mailbox_register: mailbox allocated for rsvp-udp
+2022-03-22 08:51:11 | ERROR |   :..entity_initialize: interface 9.67.100.1, entity for rsvp allocated and initialized
+2022-03-22 08:51:12 | INFO |    :.....mailslot_create: creating mailslot for RSVP
+2022-03-22 08:51:13 | INFO |    :....mailbox_register: mailbox allocated for rsvp
+2022-03-22 08:51:14 | INFO |    :.....mailslot_create: creating mailslot for RSVP via UDP
+2022-03-22 08:51:15 | WARNING | :.....mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available.
+2022-03-22 08:51:16 | INFO |    :....mailbox_register: mailbox allocated for rsvp-udp
+2022-03-22 08:51:17 | TRACE |   :..entity_initialize: interface 9.67.101.1, entity for rsvp allocated and initialized
+2022-03-22 08:51:18 | INFO |    :.....mailslot_create: creating mailslot for RSVP
+2022-03-22 08:51:19 | INFO |    :....mailbox_register: mailbox allocated for rsvp
+2022-03-22 08:51:20 | ERROR |    :.....mailslot_create: creating mailslot for RSVP via UDP
+2022-03-22 08:51:21 | INFO |    :....mailbox_register: mailbox allocated for rsvp-udp
+2022-03-22 08:51:22 | TRACE |   :..entity_initialize: interface 9.67.116.98, entity for rsvp allocated and
